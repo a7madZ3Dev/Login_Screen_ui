@@ -14,9 +14,10 @@ Nice and simple login screen.
 
 ## 📱 Screen Shots 
 
-<img alt="jpg" src="preview/view_1.jpg" width= "300" /> <img alt="jpg" src="preview/view_2.jpg" width= "300" /> 
+<img alt="jpg" src="preview/view_1.jpg" width= "300" />  <img alt="jpg" src="preview/view_2.jpg" width= "300" /> 
 
 <br>
+
 ## 🔑 License
 
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
