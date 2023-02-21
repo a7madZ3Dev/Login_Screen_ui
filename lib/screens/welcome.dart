@@ -31,11 +31,11 @@ class WelcomeScreen extends StatelessWidget {
                   text: TextSpan(
                     children: [
                       TextSpan(
-                        text: "BAKING LESSONS\n",
+                        text: "MUSIC LESSONS\n",
                         style: Theme.of(context).textTheme.bodyText1,
                       ),
                       TextSpan(
-                        text: "MASTER THE ART OF BAKING",
+                        text: "MASTER THE ART OF MUSIC",
                         style: Theme.of(context).textTheme.headline6,
                       )
                     ],
